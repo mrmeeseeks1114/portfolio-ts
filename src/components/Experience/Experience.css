@@ -1,0 +1,8 @@
+.experience {
+  padding: 100px 0;
+}
+
+.timeline {
+  display: grid;
+  gap: 2rem;
+}

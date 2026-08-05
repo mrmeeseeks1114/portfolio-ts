@@ -1,0 +1,8 @@
+.education {
+  padding: 100px 0;
+}
+
+.education-list {
+  display: grid;
+  gap: 2rem;
+}

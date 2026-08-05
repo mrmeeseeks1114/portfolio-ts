@@ -1,0 +1,13 @@
+.contact-card {
+  background: #151515;
+
+  padding: 2rem;
+
+  border-radius: 16px;
+
+  transition: .3s;
+}
+
+.contact-card:hover {
+  transform: translateY(-8px);
+}
